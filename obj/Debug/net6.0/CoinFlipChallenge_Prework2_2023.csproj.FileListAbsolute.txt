@@ -1,0 +1,15 @@
+C:\Users\Digit\source\repos\CoinFlipChallenge_Prework2_2023\bin\Debug\net6.0\CoinFlipChallenge_Prework2_2023.exe
+C:\Users\Digit\source\repos\CoinFlipChallenge_Prework2_2023\bin\Debug\net6.0\CoinFlipChallenge_Prework2_2023.deps.json
+C:\Users\Digit\source\repos\CoinFlipChallenge_Prework2_2023\bin\Debug\net6.0\CoinFlipChallenge_Prework2_2023.runtimeconfig.json
+C:\Users\Digit\source\repos\CoinFlipChallenge_Prework2_2023\bin\Debug\net6.0\CoinFlipChallenge_Prework2_2023.dll
+C:\Users\Digit\source\repos\CoinFlipChallenge_Prework2_2023\bin\Debug\net6.0\CoinFlipChallenge_Prework2_2023.pdb
+C:\Users\Digit\source\repos\CoinFlipChallenge_Prework2_2023\obj\Debug\net6.0\CoinFlipChallenge_Prework2_2023.csproj.AssemblyReference.cache
+C:\Users\Digit\source\repos\CoinFlipChallenge_Prework2_2023\obj\Debug\net6.0\CoinFlipChallenge_Prework2_2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Digit\source\repos\CoinFlipChallenge_Prework2_2023\obj\Debug\net6.0\CoinFlipChallenge_Prework2_2023.AssemblyInfoInputs.cache
+C:\Users\Digit\source\repos\CoinFlipChallenge_Prework2_2023\obj\Debug\net6.0\CoinFlipChallenge_Prework2_2023.AssemblyInfo.cs
+C:\Users\Digit\source\repos\CoinFlipChallenge_Prework2_2023\obj\Debug\net6.0\CoinFlipChallenge_Prework2_2023.csproj.CoreCompileInputs.cache
+C:\Users\Digit\source\repos\CoinFlipChallenge_Prework2_2023\obj\Debug\net6.0\CoinFlipChallenge_Prework2_2023.dll
+C:\Users\Digit\source\repos\CoinFlipChallenge_Prework2_2023\obj\Debug\net6.0\refint\CoinFlipChallenge_Prework2_2023.dll
+C:\Users\Digit\source\repos\CoinFlipChallenge_Prework2_2023\obj\Debug\net6.0\CoinFlipChallenge_Prework2_2023.pdb
+C:\Users\Digit\source\repos\CoinFlipChallenge_Prework2_2023\obj\Debug\net6.0\CoinFlipChallenge_Prework2_2023.genruntimeconfig.cache
+C:\Users\Digit\source\repos\CoinFlipChallenge_Prework2_2023\obj\Debug\net6.0\ref\CoinFlipChallenge_Prework2_2023.dll

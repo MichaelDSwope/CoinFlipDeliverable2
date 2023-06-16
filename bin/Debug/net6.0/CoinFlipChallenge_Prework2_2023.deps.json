@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CoinFlipChallenge_Prework2_2023/1.0.0": {
+        "runtime": {
+          "CoinFlipChallenge_Prework2_2023.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoinFlipChallenge_Prework2_2023/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
